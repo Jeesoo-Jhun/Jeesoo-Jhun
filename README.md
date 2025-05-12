@@ -31,26 +31,12 @@ I'm a data analyst and international development specialist with 8+ years of exp
 
 ## 🏢 Professional Background
 
-| Organization | Role | Highlights |
-|--------------|------|------------|
-| **Inter-American Development Bank (IDB)** | Consultant (2022–2025) | 
-- Designed and led 10+ digital development and connectivity projects across Latin America, securing over **$5M in funding**.  
-- Contributed to estimated **1.5% GDP growth** in multiple countries by supporting national broadband, data center, and digital policy reforms.  
-- Developed KPI-based frameworks and conducted data-driven needs assessments for governments in **Peru, El Salvador, Dominican Republic, and Ecuador**.  
-- Built partnerships with ministries (e.g., **Korean MSIT**, **Colombian ICT Ministry**) and international donors to drive innovation-focused infrastructure projects.  
-- Delivered digital literacy and cybersecurity capacity training to **over 500+ officials, women, and students** in 10+ countries.  
-- Co-authored internal report on **Korea’s national cybersecurity law** for IDB policymaking.  
+| Organization | Role | Key Highlights |
+|--------------|------|----------------|
+| **Inter-American Development Bank (IDB)** | Consultant (2022–2025) | Led 10+ digital development projects across Latin America; secured $5M+ in funding; improved broadband, data center, and cybersecurity infrastructure in Peru, El Salvador, Dominican Republic, etc.; delivered digital literacy training to 500+ participants. |
+| **Korea Internet & Security Agency (KISA)** | Researcher (2016–2022) | Reduced spam complaints by 10% through proactive keyword analysis and system upgrades; represented Korea in ICANN/APNIC/APTLD; chaired Asia-Pacific spam response network (UCENet); led internet governance research. |
+| **TNS Korea** | Data Intern (2014) | Processed large-scale consumer survey data for market insights; supported data validation and QA processes for client reports. |
 
-| **Korea Internet & Security Agency (KISA)** | Researcher (2016–2022) | 
-- Achieved **10% reduction** in monthly spam complaints through machine-learning based spam keyword detection and system optimization.  
-- Led Korea’s international engagement in **ICANN**, **APNIC**, and **APTLD**, representing Korean Internet governance interests.  
-- Chaired **Asia-Pacific anti-spam network (UCENet)**, coordinating policy harmonization across 5 countries.  
-- Managed Korea’s national IP/domain governance data, producing analytics for high-level policy briefs.  
-- Supported the **Asia Pacific Internet Governance Academy (APIGA)**, prioritizing women's participation in internet leadership.  
-
-| **TNS Korea (Market Research Firm)** | Data Intern (2014) | 
-- Cleaned, verified, and analyzed large-scale consumer survey data, ensuring integrity for marketing insights.  
-- Gained hands-on experience with data quality assurance and Excel-based statistical processing.  
 
 ---
 
